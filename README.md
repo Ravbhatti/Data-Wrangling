@@ -22,13 +22,13 @@ The project uses the following datasets:
     * Conducted an initial assessment of data quality to identify missing values, duplicates, and inconsistencies.
     * Documented data types, formats, and discrepancies.
 3.  **Data Cleaning:**
-    * Addressed missing values through removal or imputation.
+    * Addressed missing values through imputation.
     * Removed duplicate records.
     * Standardized date formats.
 4.  **Data Transformation:**
     * Performed data type conversions.
-    * Derived new features (e.g., `purchase_month`, `customer_tenure`).
-    * Aggregated data (e.g., monthly sales).
+    * Derived new features like, `purchase_month`, `customer_tenure`.
+    * Aggregated data like, monthly sales.
 5.  **Data Consolidation:**
     * Merged datasets into a unified customer database using `customer_id` as the key.
 6.  **Documentation and Validation:**
