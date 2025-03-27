@@ -1,0 +1,301 @@
+service_id,customer_id,inquiry_type,resolution,service_timestamp
+1,122,Product Question,Resolved,2025-02-03 17:35:00.381180
+2,137,Shipping Issue,Resolved,2024-11-16 17:35:00.381180
+3,127,Complaint,Resolved,2024-12-20 17:35:00.381180
+4,50,Account Help,Resolved,2024-09-20 17:35:00.381180
+5,125,Account Help,Resolved,2024-04-07 17:35:00.381180
+6,59,Product Question,Refunded,2024-06-26 17:35:00.381180
+7,172,Account Help,Resolved,2024-04-04 17:35:00.381180
+8,198,Shipping Issue,Resolved,2025-03-15 17:35:00.381180
+9,166,Account Help,Pending,2025-01-01 17:35:00.381180
+10,120,Product Question,Refunded,2024-03-29 17:35:00.381180
+11,27,Product Question,Pending,2024-07-26 17:35:00.381180
+12,105,Account Help,Escalated,2025-02-06 17:35:00.381180
+13,134,Shipping Issue,Pending,2024-11-08 17:35:00.381180
+14,172,Shipping Issue,Escalated,2024-11-15 17:35:00.381180
+15,108,Shipping Issue,Resolved,2025-03-05 17:35:00.381180
+16,74,Product Question,Pending,2024-10-25 17:35:00.381180
+17,110,Complaint,Pending,2025-01-28 17:35:00.381180
+18,22,Product Question,Resolved,2025-02-23 17:35:00.381180
+19,63,Complaint,Pending,2024-07-30 17:35:00.381180
+20,124,Complaint,Refunded,2024-08-22 17:35:00.381180
+21,28,Product Question,Resolved,2024-04-28 17:35:00.381180
+22,17,Return,Refunded,2024-12-02 17:35:00.381180
+23,50,Complaint,Refunded,2024-08-29 17:35:00.381180
+24,76,Account Help,Escalated,2025-03-01 17:35:00.381180
+25,59,Shipping Issue,Pending,2024-06-09 17:35:00.381180
+26,10,Account Help,Resolved,2025-02-18 17:35:00.381180
+27,33,Shipping Issue,Pending,2024-11-23 17:35:00.381180
+28,162,Complaint,Escalated,2024-10-18 17:35:00.381180
+29,107,Complaint,Refunded,2024-06-18 17:35:00.381180
+30,43,Account Help,Refunded,2024-10-28 17:35:00.381180
+31,146,Shipping Issue,Refunded,2024-05-29 17:35:00.381180
+32,16,Product Question,Refunded,2024-08-28 17:35:00.381180
+33,77,Shipping Issue,Pending,2024-06-22 17:35:00.381180
+34,171,Complaint,Resolved,2025-01-10 17:35:00.381180
+35,111,Complaint,Escalated,2024-06-01 17:35:00.381180
+36,154,Account Help,Resolved,2024-09-09 17:35:00.381180
+37,32,Return,Pending,2024-03-26 17:35:00.381180
+38,157,Account Help,Resolved,2025-01-29 17:35:00.381180
+39,149,Account Help,Pending,2024-11-04 17:35:00.381180
+40,124,Account Help,Refunded,2024-04-27 17:35:00.381180
+41,155,Complaint,Resolved,2025-01-24 17:35:00.381180
+42,150,Account Help,Pending,2025-01-21 17:35:00.381180
+43,193,Shipping Issue,Pending,2024-09-09 17:35:00.381180
+44,122,Complaint,Escalated,2024-07-06 17:35:00.381180
+45,36,Shipping Issue,Refunded,2024-04-10 17:35:00.381180
+46,35,Shipping Issue,Pending,2025-01-04 17:35:00.381180
+47,116,Return,Resolved,2025-03-16 17:35:00.381180
+48,114,Complaint,Refunded,2025-01-31 17:35:00.381180
+49,16,Shipping Issue,Escalated,2025-01-02 17:35:00.381180
+50,46,Account Help,Escalated,2025-01-09 17:35:00.381180
+51,93,Shipping Issue,Pending,2024-10-29 17:35:00.381180
+52,24,Complaint,Refunded,2024-08-22 17:35:00.381180
+53,35,Product Question,Resolved,2024-07-10 17:35:00.381180
+54,185,Product Question,Escalated,2024-10-26 17:35:00.381180
+55,190,Return,Pending,2024-08-09 17:35:00.381180
+56,180,Complaint,Pending,2024-10-20 17:35:00.381180
+57,112,Shipping Issue,Escalated,2024-11-13 17:35:00.381180
+58,152,Product Question,Refunded,2025-03-11 17:35:00.381180
+59,60,Account Help,Escalated,2024-12-16 17:35:00.381180
+60,4,Return,Refunded,2024-10-29 17:35:00.381180
+61,22,Account Help,Pending,2024-09-30 17:35:00.381180
+62,36,Product Question,Pending,2025-01-09 17:35:00.381180
+63,66,Account Help,Pending,2024-12-21 17:35:00.381180
+64,22,Return,Refunded,2024-04-18 17:35:00.381180
+65,159,Complaint,Escalated,2024-07-16 17:35:00.381180
+66,102,Product Question,Refunded,2024-11-22 17:35:00.381180
+67,149,Product Question,Pending,2024-09-24 17:35:00.381180
+68,127,Complaint,Resolved,2024-09-12 17:35:00.381180
+69,59,Account Help,Escalated,2025-01-21 17:35:00.381180
+70,66,Account Help,Pending,2024-11-15 17:35:00.381180
+71,126,Complaint,Refunded,2024-05-05 17:35:00.381180
+72,151,Shipping Issue,Refunded,2024-12-24 17:35:00.381180
+73,7,Account Help,Resolved,2024-04-30 17:35:00.381180
+74,79,Return,Refunded,2024-10-04 17:35:00.381180
+75,15,Shipping Issue,Pending,2024-05-17 17:35:00.381180
+76,190,Shipping Issue,Escalated,2024-10-26 17:35:00.381180
+77,53,Account Help,Resolved,2024-07-21 17:35:00.381180
+78,2,Return,Escalated,2024-09-09 17:35:00.381180
+79,129,Account Help,Escalated,2025-02-06 17:35:00.381180
+80,113,Complaint,Resolved,2024-05-15 17:35:00.381180
+81,99,Return,Escalated,2024-03-27 17:35:00.381180
+82,152,Return,Escalated,2024-10-03 17:35:00.381180
+83,7,Return,Refunded,2024-09-18 17:35:00.381180
+84,164,Account Help,Resolved,2024-11-16 17:35:00.381180
+85,171,Return,Resolved,2024-07-08 17:35:00.381180
+86,123,Complaint,Escalated,2024-06-16 17:35:00.381180
+87,145,Complaint,Resolved,2024-09-20 17:35:00.381180
+88,189,Return,Resolved,2024-07-12 17:35:00.381180
+89,157,Shipping Issue,Resolved,2024-11-14 17:35:00.381180
+90,119,Complaint,Pending,2025-03-02 17:35:00.381180
+91,32,Product Question,Escalated,2024-04-22 17:35:00.381180
+92,50,Return,Escalated,2024-03-28 17:35:00.381180
+93,62,Return,Refunded,2024-10-23 17:35:00.381180
+94,192,Account Help,Refunded,2024-05-29 17:35:00.381180
+95,176,Complaint,Pending,2024-04-21 17:35:00.381180
+96,34,Return,Escalated,2024-09-03 17:35:00.381180
+97,79,Shipping Issue,Escalated,2024-10-16 17:35:00.381180
+98,173,Shipping Issue,Escalated,2024-09-21 17:35:00.381180
+99,166,Return,Escalated,2024-08-28 17:35:00.381180
+100,70,Return,Refunded,2024-04-16 17:35:00.381180
+101,35,Shipping Issue,Refunded,2025-01-01 17:35:00.381180
+102,134,Account Help,Pending,2024-11-29 17:35:00.381180
+103,114,Return,Refunded,2024-05-28 17:35:00.381180
+104,49,Complaint,Escalated,2025-02-26 17:35:00.381180
+105,179,Complaint,Escalated,2024-05-19 17:35:00.381180
+106,75,Product Question,Pending,2024-11-14 17:35:00.381180
+107,92,Shipping Issue,Resolved,2024-12-09 17:35:00.381180
+108,41,Shipping Issue,Escalated,2024-06-03 17:35:00.381180
+109,70,Product Question,Pending,2024-11-16 17:35:00.381180
+110,102,Complaint,Refunded,2024-07-22 17:35:00.381180
+111,14,Account Help,Refunded,2025-01-09 17:35:00.381180
+112,23,Account Help,Resolved,2024-07-28 17:35:00.381180
+113,7,Complaint,Refunded,2024-05-18 17:35:00.381180
+114,7,Account Help,Pending,2024-05-26 17:35:00.381180
+115,73,Complaint,Escalated,2024-07-15 17:35:00.381180
+116,170,Shipping Issue,Resolved,2024-07-10 17:35:00.381180
+117,4,Account Help,Refunded,2024-05-13 17:35:00.381180
+118,121,Account Help,Resolved,2024-05-02 17:35:00.381180
+119,137,Product Question,Escalated,2024-11-18 17:35:00.381180
+120,79,Shipping Issue,Pending,2024-10-31 17:35:00.381180
+121,164,Shipping Issue,Resolved,2025-01-05 17:35:00.381180
+122,46,Shipping Issue,Refunded,2024-04-25 17:35:00.381180
+123,82,Account Help,Resolved,2024-10-16 17:35:00.381180
+124,53,Complaint,Resolved,2025-03-14 17:35:00.381180
+125,16,Account Help,Pending,2024-11-03 17:35:00.381180
+126,51,Account Help,Escalated,2024-04-11 17:35:00.381180
+127,132,Shipping Issue,Refunded,2024-09-24 17:35:00.381180
+128,122,Complaint,Resolved,2025-02-10 17:35:00.381180
+129,173,Return,Refunded,2024-08-08 17:35:00.381180
+130,136,Shipping Issue,Escalated,2025-02-17 17:35:00.381180
+131,54,Return,Pending,2024-09-13 17:35:00.381180
+132,169,Account Help,Refunded,2025-02-25 17:35:00.381180
+133,82,Shipping Issue,Pending,2024-09-17 17:35:00.381180
+134,181,Product Question,Escalated,2025-01-12 17:35:00.381180
+135,136,Product Question,Resolved,2024-12-21 17:35:00.381180
+136,141,Complaint,Pending,2024-05-31 17:35:00.381180
+137,5,Complaint,Pending,2024-12-24 17:35:00.381180
+138,20,Shipping Issue,Escalated,2024-04-16 17:35:00.381180
+139,39,Shipping Issue,Resolved,2024-05-18 17:35:00.381180
+140,151,Shipping Issue,Refunded,2024-04-16 17:35:00.381180
+141,24,Complaint,Pending,2024-10-31 17:35:00.381180
+142,145,Complaint,Resolved,2024-07-09 17:35:00.381180
+143,186,Shipping Issue,Refunded,2025-01-16 17:35:00.381180
+144,171,Complaint,Escalated,2024-12-11 17:35:00.381180
+145,44,Complaint,Pending,2024-07-28 17:35:00.381180
+146,62,Complaint,Pending,2024-04-28 17:35:00.381180
+147,193,Complaint,Refunded,2024-12-21 17:35:00.381180
+148,121,Shipping Issue,Resolved,2024-09-09 17:35:00.381180
+149,37,Shipping Issue,Pending,2024-07-19 17:35:00.381180
+150,11,Return,Escalated,2024-09-01 17:35:00.381180
+151,174,Return,Pending,2024-12-21 17:35:00.381180
+152,112,Complaint,Resolved,2024-12-06 17:35:00.381180
+153,183,Account Help,Escalated,2024-08-27 17:35:00.381180
+154,131,Account Help,Pending,2024-07-27 17:35:00.381180
+155,149,Account Help,Resolved,2024-03-28 17:35:00.381180
+156,194,Return,Pending,2024-11-04 17:35:00.381180
+157,159,Product Question,Refunded,2024-11-08 17:35:00.381180
+158,114,Return,Pending,2025-02-24 17:35:00.381180
+159,128,Shipping Issue,Pending,2025-03-11 17:35:00.381180
+160,199,Account Help,Resolved,2025-03-23 17:35:00.381180
+161,159,Shipping Issue,Pending,2024-05-12 17:35:00.381180
+162,100,Product Question,Refunded,2024-12-15 17:35:00.381180
+163,91,Return,Refunded,2025-03-23 17:35:00.381180
+164,124,Complaint,Pending,2024-11-27 17:35:00.381180
+165,198,Account Help,Resolved,2024-11-01 17:35:00.381180
+166,153,Return,Refunded,2024-11-27 17:35:00.381180
+167,81,Shipping Issue,Resolved,2024-09-10 17:35:00.381180
+168,129,Shipping Issue,Escalated,2024-09-21 17:35:00.381180
+169,184,Product Question,Escalated,2024-06-09 17:35:00.381180
+170,82,Shipping Issue,Refunded,2025-02-15 17:35:00.381180
+171,96,Product Question,Escalated,2025-02-23 17:35:00.381180
+172,136,Return,Refunded,2025-02-01 17:35:00.381180
+173,22,Shipping Issue,Refunded,2025-03-05 17:35:00.381180
+174,105,Account Help,Refunded,2024-07-10 17:35:00.381180
+175,26,Complaint,Pending,2024-11-05 17:35:00.381180
+176,17,Account Help,Escalated,2025-03-06 17:35:00.381180
+177,122,Account Help,Refunded,2024-11-30 17:35:00.381180
+178,49,Product Question,Escalated,2024-11-17 17:35:00.381180
+179,4,Shipping Issue,Refunded,2025-02-21 17:35:00.381180
+180,76,Complaint,Escalated,2024-04-01 17:35:00.381180
+181,37,Product Question,Escalated,2024-11-12 17:35:00.381180
+182,73,Return,Resolved,2024-04-11 17:35:00.381180
+183,17,Account Help,Pending,2025-02-11 17:35:00.381180
+184,45,Product Question,Resolved,2024-12-22 17:35:00.381180
+185,24,Complaint,Escalated,2024-10-03 17:35:00.381180
+186,116,Shipping Issue,Escalated,2025-02-26 17:35:00.381180
+187,131,Shipping Issue,Refunded,2024-11-11 17:35:00.381180
+188,187,Return,Escalated,2024-05-14 17:35:00.381180
+189,85,Return,Resolved,2024-11-30 17:35:00.381180
+190,26,Complaint,Escalated,2025-03-07 17:35:00.381180
+191,74,Return,Refunded,2024-06-11 17:35:00.381180
+192,60,Complaint,Escalated,2024-06-23 17:35:00.381180
+193,164,Shipping Issue,Escalated,2024-11-19 17:35:00.381180
+194,108,Product Question,Resolved,2024-04-23 17:35:00.381180
+195,54,Product Question,Refunded,2024-12-13 17:35:00.381180
+196,64,Account Help,Pending,2024-12-31 17:35:00.381180
+197,110,Return,Pending,2024-12-11 17:35:00.381180
+198,175,Product Question,Pending,2024-08-11 17:35:00.381180
+199,7,Return,Refunded,2024-09-04 17:35:00.381180
+200,131,Account Help,Refunded,2024-06-14 17:35:00.381180
+201,43,Return,Escalated,2025-03-14 17:35:00.381180
+202,195,Product Question,Refunded,2024-11-16 17:35:00.381180
+203,76,Complaint,Pending,2024-04-01 17:35:00.381180
+204,124,Product Question,Refunded,2024-08-17 17:35:00.381180
+205,105,Shipping Issue,Refunded,2024-09-11 17:35:00.381180
+206,30,Return,Refunded,2024-07-24 17:35:00.381180
+207,134,Shipping Issue,Resolved,2024-08-08 17:35:00.381180
+208,60,Shipping Issue,Refunded,2025-02-13 17:35:00.381180
+209,121,Shipping Issue,Resolved,2024-11-04 17:35:00.381180
+210,100,Product Question,Pending,2024-10-20 17:35:00.381180
+211,173,Product Question,Pending,2024-05-28 17:35:00.381180
+212,183,Account Help,Refunded,2024-04-30 17:35:00.381180
+213,197,Shipping Issue,Pending,2024-06-17 17:35:00.381180
+214,193,Complaint,Resolved,2024-08-13 17:35:00.381180
+215,35,Shipping Issue,Pending,2024-05-25 17:35:00.381180
+216,99,Product Question,Pending,2024-10-12 17:35:00.381180
+217,58,Complaint,Refunded,2024-05-15 17:35:00.381180
+218,130,Shipping Issue,Escalated,2024-07-11 17:35:00.381180
+219,58,Account Help,Pending,2024-05-07 17:35:00.381180
+220,94,Shipping Issue,Escalated,2025-01-03 17:35:00.381180
+221,49,Account Help,Escalated,2024-10-03 17:35:00.381180
+222,195,Complaint,Resolved,2024-10-26 17:35:00.381180
+223,94,Product Question,Pending,2025-03-12 17:35:00.381180
+224,134,Shipping Issue,Pending,2024-07-05 17:35:00.381180
+225,32,Product Question,Refunded,2024-08-30 17:35:00.381180
+226,125,Complaint,Resolved,2024-12-12 17:35:00.381180
+227,187,Shipping Issue,Escalated,2024-08-09 17:35:00.381180
+228,9,Account Help,Resolved,2024-06-09 17:35:00.381180
+229,182,Product Question,Pending,2024-10-05 17:35:00.381180
+230,37,Shipping Issue,Resolved,2025-02-14 17:35:00.381180
+231,72,Return,Pending,2024-07-07 17:35:00.381180
+232,118,Shipping Issue,Pending,2025-03-24 17:35:00.381180
+233,83,Product Question,Refunded,2024-04-09 17:35:00.381180
+234,16,Product Question,Pending,2024-08-01 17:35:00.381180
+235,190,Account Help,Escalated,2024-06-18 17:35:00.381180
+236,108,Product Question,Refunded,2024-06-16 17:35:00.381180
+237,142,Account Help,Resolved,2024-07-29 17:35:00.381180
+238,129,Complaint,Pending,2024-10-14 17:35:00.381180
+239,175,Shipping Issue,Pending,2024-12-08 17:35:00.381180
+240,60,Complaint,Pending,2025-03-04 17:35:00.381180
+241,167,Complaint,Refunded,2025-03-01 17:35:00.381180
+242,171,Complaint,Resolved,2024-07-22 17:35:00.381180
+243,32,Return,Resolved,2024-04-22 17:35:00.381180
+244,154,Product Question,Escalated,2024-08-20 17:35:00.381180
+245,148,Account Help,Refunded,2025-01-27 17:35:00.381180
+246,123,Return,Refunded,2024-06-19 17:35:00.381180
+247,64,Complaint,Resolved,2024-05-05 17:35:00.381180
+248,5,Account Help,Pending,2025-03-01 17:35:00.381180
+249,34,Account Help,Refunded,2025-01-12 17:35:00.381180
+250,48,Shipping Issue,Pending,2024-12-11 17:35:00.381180
+251,73,Account Help,Refunded,2024-11-04 17:35:00.381180
+252,39,Complaint,Refunded,2024-05-16 17:35:00.381180
+253,57,Shipping Issue,Refunded,2024-11-18 17:35:00.381180
+254,84,Return,Refunded,2024-08-01 17:35:00.381180
+255,168,Return,Escalated,2024-07-15 17:35:00.381180
+256,16,Account Help,Resolved,2024-05-21 17:35:00.381180
+257,65,Account Help,Resolved,2024-06-01 17:35:00.381180
+258,43,Complaint,Pending,2024-05-10 17:35:00.381180
+259,160,Shipping Issue,Escalated,2024-07-18 17:35:00.381180
+260,76,Product Question,Refunded,2025-01-09 17:35:00.381180
+261,145,Shipping Issue,Pending,2025-03-23 17:35:00.381180
+262,64,Product Question,Pending,2024-05-12 17:35:00.381180
+263,199,Complaint,Refunded,2024-05-07 17:35:00.381180
+264,25,Product Question,Escalated,2024-05-11 17:35:00.381180
+265,149,Account Help,Pending,2024-11-11 17:35:00.381180
+266,41,Complaint,Escalated,2024-08-16 17:35:00.381180
+267,91,Shipping Issue,Refunded,2024-11-20 17:35:00.381180
+268,107,Account Help,Escalated,2025-03-23 17:35:00.381180
+269,85,Product Question,Pending,2024-04-28 17:35:00.381180
+270,45,Complaint,Escalated,2024-10-27 17:35:00.381180
+271,103,Complaint,Refunded,2025-01-03 17:35:00.381180
+272,151,Shipping Issue,Resolved,2024-07-29 17:35:00.381180
+273,32,Product Question,Refunded,2025-03-15 17:35:00.381180
+274,62,Account Help,Escalated,2024-07-05 17:35:00.381180
+275,41,Shipping Issue,Resolved,2024-10-07 17:35:00.381180
+276,110,Product Question,Refunded,2024-06-24 17:35:00.381180
+277,193,Product Question,Pending,2024-05-17 17:35:00.381180
+278,19,Complaint,Pending,2025-03-05 17:35:00.381180
+279,4,Account Help,Resolved,2024-11-05 17:35:00.381180
+280,53,Shipping Issue,Resolved,2024-09-08 17:35:00.381180
+281,106,Return,Refunded,2025-03-15 17:35:00.381180
+282,114,Shipping Issue,Resolved,2024-10-30 17:35:00.381180
+283,148,Complaint,Refunded,2024-07-20 17:35:00.381180
+284,185,Product Question,Pending,2024-11-15 17:35:00.381180
+285,93,Complaint,Resolved,2024-12-28 17:35:00.381180
+286,13,Account Help,Escalated,2025-03-13 17:35:00.381180
+287,44,Complaint,Refunded,2025-01-19 17:35:00.381180
+288,176,Account Help,Resolved,2024-04-19 17:35:00.381180
+289,78,Account Help,Resolved,2024-07-17 17:35:00.381180
+290,8,Return,Escalated,2024-07-26 17:35:00.381180
+291,95,Complaint,Pending,2024-08-02 17:35:00.381180
+292,127,Product Question,Refunded,2025-03-25 17:35:00.381180
+293,73,Return,Resolved,2024-10-30 17:35:00.381180
+294,165,Complaint,Escalated,2024-08-01 17:35:00.381180
+295,68,Return,Refunded,2024-12-20 17:35:00.381180
+296,38,Return,Escalated,2024-07-19 17:35:00.381180
+297,188,Return,Escalated,2025-03-13 17:35:00.381180
+298,190,Product Question,Refunded,2024-04-08 17:35:00.381180
+299,188,Product Question,Pending,2024-05-12 17:35:00.381180
+300,181,Complaint,Pending,2024-10-22 17:35:00.381180
